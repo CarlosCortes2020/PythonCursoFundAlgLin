@@ -1,0 +1,11 @@
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1748019130050/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_numpy_1753401532/work/dist/numpy-2.3.2-cp313-cp313-linux_x86_64.whl#sha256=b807b187b636e13c1fd603be4250744e9a8479d99c1aeafea6566dfda5339405
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1752081722123/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dateutil_1751104122/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1752825732222/work/dist/scikit_learn-1.7.1-cp313-cp313-linux_x86_64.whl#sha256=15ce9932a0a7a574b2ea85aefe5001d0f9b2227822a7d0a5bb86f6c806b62c61
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy-split_1754969107363/work/dist/scipy-1.16.1-cp313-cp313-linux_x86_64.whl#sha256=ff32db69672681540efab906f8ae194232ad7b23eb5a8e9ae0cad7202c1ccca3
+setuptools==80.9.0
+six @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_six_1753199211/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1742745135198/work
