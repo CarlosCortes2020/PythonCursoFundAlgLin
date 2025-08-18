@@ -1,0 +1,22 @@
+
+  673  cd Documents/python
+  674  ll
+  675  cd PythonCursoFundAlgLin
+  676  ls
+  677  clear
+  678  conda create -name CursoFundAlgLin
+  679  conda create -name CursoFundAlgLin python pandas numpy scikit-learn
+  680  conda activate CursoFundAlgLin
+  681  conda create --name CursoFundAlgLin python pandas numpy scikit-learn
+  682  conda activate CursoFundAlgLin
+  683  git init
+  684  pip freeze > requirements.txt
+  685  git branch -M main
+  686  git remote add origin git@github.com:CarlosCortes2020/PythonCursoFundAlgLin.git
+  687  git status
+  688  git add .
+  689  git status
+  690  git commit -am "First commit with the file requirements.txt loaded"
+  691  git status
+  692  git push origin main
+  693  code .
